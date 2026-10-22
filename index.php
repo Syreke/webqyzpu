@@ -1,4 +1,4 @@
-
+<h1>My First PHP Page</h1>
 <?php  
 for ($x = 0; $x <= 100; $x++) {
  ?> <b> <?php echo "The number is: $x <br>";?></b> 
