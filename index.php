@@ -5,7 +5,6 @@ for ($x = 0; $x <= 100; $x++) {
 <?php
 }?>
 
-<h1 >dsafsa</h1>
 <div id="demo"></div>
 
 <script>
